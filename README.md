@@ -1,3 +1,6 @@
+## ⚠️ THIS PROJECT IS NOT MAINTAINED NOR USED BY OUR TEAM ANY MORE. PLEASE DO NOT USE IT. 
+
+
 ifvisible.js
 ------------
 
